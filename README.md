@@ -1,15 +1,11 @@
 
-预览地址： [http://www.lybenson.com/bilibili/](http://www.lybenson.com/bilibili/)
+项目是在github中找到的，主要用于自己学习和练习
 
 ## 技术栈
 
 前端：vue2 + vuex + webpack + ES6/7 + stylus + nginx
 
 后端：koa2
-
-## 项目运行
-
-#### 源码地址:  [https://github.com/lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) 
 
 #### 如何运行
 
