@@ -15,7 +15,7 @@ import BContent from 'components/content/BContent.vue'
 import BNavSide from 'components/nav/BNavSide'
 
 import { mapGetters } from 'vuex'
-//ceshtijiao 
+//ceshtijiao11111111111 
 
 export default {
   name: 'app',
